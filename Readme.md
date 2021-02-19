@@ -2,26 +2,22 @@
 
 - Support 日本語/中文/English
 - Portable
-- GUI
+- GUI/CUI
 - Web API
-- CUI
-
-![image-20210219083204547](Readme/top.jpg)
-
-## Release
-
-Download from [here](release/) (Windows x64 )
-
-
 
 ## Sample Voice
 
 [https://tomohiro-nagasaka.github.io/Repository/TomoSpeak/](https://tomohiro-nagasaka.github.io/Repository/TomoSpeak/) 
 
+## Release
+
+Download from [here](https://github.com/Tomohiro-Nagasaka/TomoSpeak/releases) (Windows x64 )
+
+![image-20210219083204547](Readme/top.jpg)
 
 ## Environment
 
-Tested on Windows 10 and Ubuntu 18 (Currently only released windows exe)
+Tested on Windows 10 and Ubuntu 18 (Currently only released windows)
 
 ## Usage
 
@@ -31,7 +27,7 @@ TomoSpeakGUI.exe: GUI
 
 ### Read aloud
 ```
-TomoSpeak.exe C
+TomoSpeak.exe E
 ```
 J: Japanese
 C: Chinese
@@ -47,8 +43,6 @@ TomoSpeak.exe C --input input.txt --output outputfolder --format ogg
 RunServer.bat
 TomoSpeakGUI.exe
 ```
-
-
 
 ## Note
 
